@@ -1,0 +1,12 @@
+@import "../src/Assets/scss/font";
+@import "../src/Assets/scss/variables";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: $general-font;
+}
+body{
+    background: $theme-color-2;
+}

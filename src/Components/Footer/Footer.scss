@@ -1,0 +1,23 @@
+@import "../../Assets/scss/variables";
+@import "../../Assets/scss/mixin";
+
+.Footer{
+    background-color: #DBCDC6;
+    height: auto;
+    
+    .Line{
+        // width: 100%;
+        height: 0.05rem;
+        background-color: $theme-color-3;
+    }
+
+    .Footer-box{
+       display: flex;
+    //    grid-template-columns: auto auto;
+       align-items: center;
+       justify-content: space-evenly;
+    }
+    p{
+        text-align: center;
+    }
+}

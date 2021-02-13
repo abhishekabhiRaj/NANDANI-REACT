@@ -1,0 +1,16 @@
+@import "../../Assets/scss/variables";
+@import "../../Assets/scss/mixin";
+.Home{
+    background: pink;
+    height: auto;
+    width: 100vw;
+}
+
+#img{
+    width: 100%;
+}
+
+.HomeInfoCard{
+    @include d-grid-for-card;
+    // background: $theme-color-3;
+}

@@ -1,0 +1,7 @@
+@import "../../Assets/scss/mixin";
+@import "../../Assets/scss/variables";
+.Collections{
+    .Health-collection{
+        @include d-grid-for-card;
+    }
+}

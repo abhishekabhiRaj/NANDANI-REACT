@@ -1,0 +1,19 @@
+.About-card {
+    display: flex;
+    height:auto;
+    // background-color: turquoise;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5rem;
+    .image{
+        width: 40%;
+        padding: 1rem 1rem;
+    }
+    .image img{
+        width: 100%;
+    }
+    .text{
+        width: 60%;
+        // background-color: violet;
+    }
+}

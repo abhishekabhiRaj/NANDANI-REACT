@@ -1,0 +1,27 @@
+@import '../../Assets/scss/variables';
+@import '../../Assets/scss/mixin';
+@import '../../Assets/scss/font';
+
+.UnderLineHeading{
+    background: transparent;
+    padding-top: 2rem !important;
+    // margin-bottom: 1rem;
+    @include d-flex;
+    & .UnderLine-Top{
+        height: 1px;
+        width: 30%;
+        background-color: $theme-color-3;
+    }
+    & .UnderLine-Bottom{
+        height: 1px;
+        width: 30%;
+        background-color: $theme-color-3;
+    }
+    h1{
+        width: 35%;
+        text-align: center;
+        padding-top: 0.2rem;
+        font-size: 2rem;
+        letter-spacing: 0.3rem;
+    }
+}
