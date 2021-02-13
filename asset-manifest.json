@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/NANDANI-REACT/static/css/main.2d18e6e2.chunk.css",
+    "main.js": "/NANDANI-REACT/static/js/main.47294cfc.chunk.js",
+    "main.js.map": "/NANDANI-REACT/static/js/main.47294cfc.chunk.js.map",
+    "runtime-main.js": "/NANDANI-REACT/static/js/runtime-main.e629a3be.js",
+    "runtime-main.js.map": "/NANDANI-REACT/static/js/runtime-main.e629a3be.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/NANDANI-REACT/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.d72fa45f.chunk.js": "/NANDANI-REACT/static/js/2.d72fa45f.chunk.js",
+    "static/js/2.d72fa45f.chunk.js.map": "/NANDANI-REACT/static/js/2.d72fa45f.chunk.js.map",
+    "index.html": "/NANDANI-REACT/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/NANDANI-REACT/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.2d18e6e2.chunk.css.map": "/NANDANI-REACT/static/css/main.2d18e6e2.chunk.css.map",
+    "static/js/2.d72fa45f.chunk.js.LICENSE.txt": "/NANDANI-REACT/static/js/2.d72fa45f.chunk.js.LICENSE.txt",
+    "static/media/a1.1fec4e5b.jpeg": "/NANDANI-REACT/static/media/a1.1fec4e5b.jpeg",
+    "static/media/c_1.2846d3ec.jpg": "/NANDANI-REACT/static/media/c_1.2846d3ec.jpg",
+    "static/media/c_6.60b991d5.jpeg": "/NANDANI-REACT/static/media/c_6.60b991d5.jpeg",
+    "static/media/c_7.aac542af.jpg": "/NANDANI-REACT/static/media/c_7.aac542af.jpg",
+    "static/media/card-2.f934761c.jpg": "/NANDANI-REACT/static/media/card-2.f934761c.jpg",
+    "static/media/loupe.6db3e6e2.svg": "/NANDANI-REACT/static/media/loupe.6db3e6e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e629a3be.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.d72fa45f.chunk.js",
+    "static/css/main.2d18e6e2.chunk.css",
+    "static/js/main.47294cfc.chunk.js"
+  ]
+}
